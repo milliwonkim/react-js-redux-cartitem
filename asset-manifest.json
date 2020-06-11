@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/secondhand-apple-shop/static/css/main.d4813631.chunk.css",
+    "main.js": "/secondhand-apple-shop/static/js/main.d0057bc1.chunk.js",
+    "main.js.map": "/secondhand-apple-shop/static/js/main.d0057bc1.chunk.js.map",
+    "runtime~main.js": "/secondhand-apple-shop/static/js/runtime~main.740a4c3f.js",
+    "runtime~main.js.map": "/secondhand-apple-shop/static/js/runtime~main.740a4c3f.js.map",
+    "static/js/2.a69c65c9.chunk.js": "/secondhand-apple-shop/static/js/2.a69c65c9.chunk.js",
+    "static/js/2.a69c65c9.chunk.js.map": "/secondhand-apple-shop/static/js/2.a69c65c9.chunk.js.map",
+    "index.html": "/secondhand-apple-shop/index.html",
+    "precache-manifest.fc8a4a4f2011b24cef8f8808923a2096.js": "/secondhand-apple-shop/precache-manifest.fc8a4a4f2011b24cef8f8808923a2096.js",
+    "service-worker.js": "/secondhand-apple-shop/service-worker.js",
+    "static/css/main.d4813631.chunk.css.map": "/secondhand-apple-shop/static/css/main.d4813631.chunk.css.map"
+  }
+}
